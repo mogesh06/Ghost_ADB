@@ -15,7 +15,7 @@
 git clone https://github.com/mogesh06/Ghost_ADB.git
 ```
 ```
-cd ghost
+cd Ghost_ADB
 ```
 ```
 chmod +x install.sh
